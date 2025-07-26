@@ -6,9 +6,9 @@
 
 中国大陆 | 成分极其复杂
 
-会写Python和一点C++ | 偶尔发癫 精神不正常 | 想找同类 | 啥也不懂 | 只要是喜欢的人，不在意性别 | 想要个人陪着 | 想去很多很多地方玩 | 想学很多很多东西 | Minecraft |
+会写Python和一点C++  | 偶尔发癫 | Minecraft |
 
-欢迎随时找我（们）玩
+欢迎随时找咱玩
 
 (这里可能是写的最全的一个介绍了)
 
@@ -34,6 +34,6 @@
 - [Github](https://github.com/Murong-WangKezi/)
 - [X](https://x.com/Murong_WangKezi/)
 
-如果想找我（们）玩：
+如果想找我咱玩：
 
 - E-mail:Murong_WangKezi@outlook.com
